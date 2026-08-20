@@ -1,0 +1,8 @@
+{
+  "/leads/[id]/page": "app/leads/[id]/page.js",
+  "/page": "app/page.js",
+  "/brain/page": "app/brain/page.js",
+  "/stats/page": "app/stats/page.js",
+  "/settings/page": "app/settings/page.js",
+  "/import/page": "app/import/page.js"
+}

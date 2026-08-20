@@ -1,0 +1,16 @@
+node_modules/
+.next/
+.next-dev/
+.next-verify/
+out/
+*.tsbuildinfo
+*.log
+next-env.d.ts
+
+# local env files — NEVER commit secrets
+.env
+.env*.local
+
+# the local database holds OAuth refresh tokens and every lead transcript.
+# it is per-person and must never be committed.
+data/
